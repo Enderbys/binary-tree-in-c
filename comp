@@ -1,0 +1,6 @@
+g++ -c tree.cpp
+g++ tree.o main.cpp -o main
+
+rm *.o
+
+
